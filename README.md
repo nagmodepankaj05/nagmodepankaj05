@@ -1,4 +1,11 @@
+  
 # 👨‍💻 Pankaj Nagmode | Software Developer | Problem Solver ⚡
+
+<div align="center">
+  
+🔥 Learn. Build. Deploy. 🔁
+
+</div>
 
 <div align="center">    
 
@@ -47,17 +54,25 @@ I am an enthusiastic Software Developer and fresher passionate about building pr
 
 <hr>
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagmodepankaj05&theme=tokyo-night&hide_border=true" />
 </div>
 
-<hr>
+<hr> -->
 
 ## 🐍 Contribution Graph
 
 ![Contribution Snake](https://raw.githubusercontent.com/nagmodepankaj05/nagmodepankaj05/output/github-contribution-grid-snake-dark.svg)
+
+## 📊 Profile Summary
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagmodepankaj05&theme=tokyonight" />
+</div>
+
+<hr>
 
 ## 🚀 Featured Projects
 
@@ -66,9 +81,25 @@ I am an enthusiastic Software Developer and fresher passionate about building pr
 - **Online Quiz Application** – Interactive quiz platform with scoring and assessment features.
 
 ---
+<hr>
 
 ## 🤝 Connect With Me
 
-\<p align="center">   \<a href="https://www.linkedin.com/in/pankaj-nagmode-np05">LinkedIn\</a> •   \<a href="https://leetcode.com/u/nagmode_pankaj_05/">LeetCode\</a> •   \<a href="mailto\:nagmodepankaj2032@gmail.com">Email\</a> \</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pankaj-nagmode-np05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/nagmode_pankaj_05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:nagmodepankaj2032@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/nagmodepankaj05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-\<p align="center">   ⭐ Thanks for visiting my GitHub profile! \</p>
+<hr>
+
+<div align="center">   ⭐ Thanks for visiting my GitHub profile! </div>
