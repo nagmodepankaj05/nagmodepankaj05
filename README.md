@@ -1,5 +1,5 @@
   
-# 👨‍💻 Pankaj Nagmode |AI & ML | Software Developer | Problem Solver ⚡
+# 👨‍💻 Pankaj Nagmode | AI & ML | Software Developer | Problem Solver ⚡
 
 <div align="center">
   
@@ -75,8 +75,8 @@ I am an enthusiastic Software Developer and fresher passionate about building pr
 <hr>
 
 ## 🚀 Featured Projects
-
-- **ConceptBridge AI** – AI-powered multilingual concept learning and misconception detection platform.
+- **AI Business Analytics Dashboard** - AI-powered Business dataset Analysis and insights. (In working..)
+- **ConceptBridge AI** – AI-powered multilingual concept learning and misconception detection platform. (In working..)
 - **FlyRoute Management System** – Flight booking and management application.
 - **Online Quiz Application** – Interactive quiz platform with scoring and assessment features.
 - **Udemy Clone Website** – replicates the core UI and user experience of the Udemy online learning platform.
