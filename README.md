@@ -57,7 +57,7 @@ I am an enthusiastic Software Developer and fresher passionate about building pr
 
 ## 🐍 Contribution Graph
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nagmodepankaj05/nagmodepankaj05/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/nagmodepankaj05/nagmodepankaj05/output/github-contribution-grid-snake-dark.svg)
 
 ## 🚀 Featured Projects
 
