@@ -1,14 +1,8 @@
-<!--
-  GitHub Profile README
-  Repository: nagmodepankaj05/nagmodepankaj05
-  Replace the placeholder social links and email before publishing.
--->
 
 <div align="center">
 
-<!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Pankaj+Nagmode+%F0%9F%91%8B;Software+Developer;Building+Practical+Web+Applications;Learning+AI%2C+ML+%26+Data+Structures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Pankaj+Nagmode+%F0%9F%91%8B;Software+Developer;SQL+Developer;Building+Practical+Web+Applications;Exploring+AI%2C+ML+%26+Data+Structures" alt="Typing SVG" />
 </a>
 
 <h3>Software Developer | Web Development | AI & ML Enthusiast</h3>
@@ -33,7 +27,7 @@
 
 </div>
 
----
+<hr>
 
 ## 👨‍💻 About Me
 
@@ -44,9 +38,11 @@
 - 🌱 Currently exploring **AI, Machine Learning, and data-driven applications**.
 - 🤝 Open to learning, collaboration, and entry-level software development opportunities.
 
----
+<hr>
 
 ## 🛠️ Tech Stack
+
+<div align="center"> 
 
 ### Programming Languages
 <p>
@@ -63,7 +59,9 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,androidstudio" alt="Databases and tools"/>
 </p>
 
----
+</div>
+
+<hr>
 
 ## 🚀 Featured Projects
 
@@ -74,33 +72,51 @@
 | [FlyRoute Management System](https://github.com/nagmodepankaj05/FlyRoute-Management-System) | A flight booking and management application. | PHP, MySQL, HTML, CSS, JavaScript |
 | [Online Quiz Management System](https://github.com/nagmodepankaj05/Online-Quiz-Management-System) | An interactive quiz application with multiple-choice questions and assessment features. | HTML, CSS, JavaScript, PHP, MySQL |
 | [Prime Puzzles App](https://github.com/nagmodepankaj05/Prime_Puzzles_App) | An Android quiz application with category-based, level-wise questions. | Java, Android Studio |
-| [Udemy Clone Website](https://github.com/nagmodepankaj05/Udemy-Clone-Website) | A responsive learning-platform website inspired by the Udemy user experience. | HTML, CSS, JavaScript, PHP |
+| [Udemy Clone Website](https://github.com/nagmodepankaj05/Udemy-Clone-Website) | A responsive learning-platform website inspired by the Udemy user experience. | HTML, CSS, JavaScript, PHP, PostgreSQL |
 
-<p><i>Project descriptions and technology lists should be updated as each project evolves. Replace any repository link above if your repository name or URL is different.</i></p>
+<!-- <p><i>Project descriptions and technology lists should be updated as each project evolves. Replace any repository link above if your repository name or URL is different.</i></p> -->
 
----
+<hr>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nagmodepankaj05&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmodepankaj05&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nagmodepankaj05&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmodepankaj05&layout=compact&hide_border=true&theme=tokyonight" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nagmodepankaj05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<hr>
+
+<img
+  src="https://streak-stats.demolab.com/?user=nagmodepankaj05&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+  alt="GitHub Contribution Streak"
+/>
 
 <br/>
+<hr>
 
 ## 🐍 Contribution Graph
 
-![Contribution Snake](https://raw.githubusercontent.com/nagmodepankaj05/nagmodepankaj05/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/nagmodepankaj05/nagmodepankaj05/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
+
+<hr>
 
 ## 📊 Profile Summary
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagmodepankaj05&theme=tokyonight" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagmodepankaj05&theme=tokyonight" alt="GitHub Profile Summary"/>
+
 </div>
 
 <hr>
@@ -108,7 +124,7 @@
 
 </div>
 
----
+<hr>
 
 ## 🎯 Current Focus
 
@@ -118,7 +134,7 @@
 - Learning how to integrate AI into practical applications.
 - Improving code quality, database design, and development workflows.
 
----
+<hr>
 
 ## 🤝 Connect With Me
 
