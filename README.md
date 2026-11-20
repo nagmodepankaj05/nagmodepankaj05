@@ -1,66 +1,97 @@
-  
-# 👨‍💻 Pankaj Nagmode | AI & ML | Software Developer | Problem Solver ⚡
+<!--
+  GitHub Profile README
+  Repository: nagmodepankaj05/nagmodepankaj05
+  Replace the placeholder social links and email before publishing.
+-->
 
 <div align="center">
-  
-🔥 Learn. Build. Deploy. 🔁
 
-</div>
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Pankaj+Nagmode+%F0%9F%91%8B;Software+Developer;Building+Practical+Web+Applications;Learning+AI%2C+ML+%26+Data+Structures" alt="Typing SVG" />
+</a>
 
-<div align="center">    
+<h3>Software Developer | Web Development | AI & ML Enthusiast</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-nagmode-np05/) [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nagmode_pankaj_05/) [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagmodepankaj2032@gmail.com) [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagmodepankaj05)
+<p>
+  I enjoy turning ideas into practical applications, solving problems, and learning technologies that help me build better software.
+</p>
+
+<p>
+  <a href="https://github.com/nagmodepankaj05">
+    <img src="https://img.shields.io/badge/GitHub-nagmodepankaj05-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pankaj-nagmode-np05/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/nagmode_pankaj_05/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p><b>🔥 Learn. Build. Deploy.</b></p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am an enthusiastic Software Developer and fresher passionate about building practical applications, solving problems, and exploring new technologies.
-
-- 💻 Interested in Software and Web Development.
-- 🚀 Building real-world projects and learning new technologies.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🌱 Continuously improving my programming and problem-solving skills.
-- 🎯 Focused on becoming a skilled Software Developer.
+- 🎓 BCA graduate and aspiring Software Developer.
+- 💻 Interested in software development, web technologies, and database management.
+- 🚀 Building practical projects to strengthen my development skills.
+- 🧠 Practicing Data Structures, Algorithms, and problem-solving.
+- 🌱 Currently exploring **AI, Machine Learning, and data-driven applications**.
+- 🤝 Open to learning, collaboration, and entry-level software development opportunities.
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
 
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c" alt="Programming languages"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,react,bootstrap" alt="Frameworks and libraries"/>
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,androidstudio" alt="Databases and tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [AI Business Analytics Dashboard](https://github.com/nagmodepankaj05) | An analytics dashboard designed to analyze business datasets and generate useful insights. | Python, Flask, Pandas, MongoDB, Plotly |
+| [ConceptBridge AI](https://github.com/nagmodepankaj05) | A multilingual learning platform concept focused on concept understanding and misconception detection. | React, AI/ML |
+| [FlyRoute Management System](https://github.com/nagmodepankaj05/FlyRoute-Management-System) | A flight booking and management application. | PHP, MySQL, HTML, CSS, JavaScript |
+| [Online Quiz Management System](https://github.com/nagmodepankaj05/Online-Quiz-Management-System) | An interactive quiz application with multiple-choice questions and assessment features. | HTML, CSS, JavaScript, PHP, MySQL |
+| [Prime Puzzles App](https://github.com/nagmodepankaj05/Prime_Puzzles_App) | An Android quiz application with category-based, level-wise questions. | Java, Android Studio |
+| [Udemy Clone Website](https://github.com/nagmodepankaj05/Udemy-Clone-Website) | A responsive learning-platform website inspired by the Udemy user experience. | HTML, CSS, JavaScript, PHP |
+
+<p><i>Project descriptions and technology lists should be updated as each project evolves. Replace any repository link above if your repository name or URL is different.</i></p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,react,bootstrap,flask,mongodb,mysql,postgres,git,github,androidstudio,vscode&perline=9" />
-</div>
 
-<hr>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nagmodepankaj05&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmodepankaj05&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
 
-## 📊 GitHub Statistics
+<br/>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nagmodepankaj05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://streak-stats.demolab.com?user=nagmodepankaj05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmodepankaj05&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<hr>
-
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nagmodepankaj05&theme=tokyonight&hide_border=true" />
-</div>
-
-<hr>
-
-<!-- ## 📈 Contribution Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagmodepankaj05&theme=tokyo-night&hide_border=true" />
-</div>
-
-<hr> -->
+<br/>
 
 ## 🐍 Contribution Graph
 
@@ -74,32 +105,37 @@ I am an enthusiastic Software Developer and fresher passionate about building pr
 
 <hr>
 
-## 🚀 Featured Projects
-- **AI Business Analytics Dashboard** - AI-powered Business dataset Analysis and insights. (In working..)
-- **ConceptBridge AI** – AI-powered multilingual concept learning and misconception detection platform. (In working..)
-- **FlyRoute Management System** – Flight booking and management application.
-- **Online Quiz Application** – Interactive quiz platform with scoring and assessment features.
-- **Udemy Clone Website** – replicates the core UI and user experience of the Udemy online learning platform.
+
+</div>
+
 ---
-<hr>
+
+## 🎯 Current Focus
+
+- Strengthening Python and problem-solving fundamentals.
+- Practicing Data Structures and Algorithms.
+- Building full-stack web applications.
+- Learning how to integrate AI into practical applications.
+- Improving code quality, database design, and development workflows.
+
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pankaj-nagmode-np05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/nagmode_pankaj_05/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:nagmodepankaj2032@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/nagmodepankaj05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/pankaj-nagmode-np05/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/nagmode_pankaj_05/">
+  <img src="https://img.shields.io/badge/LeetCode-View_profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="mailto:nagmodepankaj2032@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+⭐ If you find my work interesting, feel free to explore my repositories and connect!
+
 </div>
-
-<hr>
-
-<div align="center">   ⭐ Thanks for visiting my GitHub profile! </div>
