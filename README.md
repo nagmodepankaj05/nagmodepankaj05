@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Pankaj+Nagmode+%F0%9F%91%8B;Software+Developer;SQL+Developer;Building+Practical+Web+Applications;Exploring+AI%2C+ML+%26+Data+Structures" alt="Typing SVG" />
 </a>
 
-<h3>Software Developer | Web Development | AI & ML Enthusiast</h3>
+<h3>Software Developer | SQL Developer | Web Development | AI & ML Enthusiast</h3>
 
 <p>
   I enjoy turning ideas into practical applications, solving problems, and learning technologies that help me build better software.
@@ -31,13 +31,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA graduate and aspiring Software Developer.
-- 💻 Interested in software development, web technologies, and database management.
-- 🚀 Building practical projects to strengthen my development skills.
-- 🧠 Practicing Data Structures, Algorithms, and problem-solving.
-- 🌱 Currently exploring **AI, Machine Learning, and data-driven applications**.
-- 🤝 Open to learning, collaboration, and entry-level software development opportunities.
-
+- 🎓 BCA Graduate | Software Developer.
+- 💡 Passionate about building practical solutions through code and technology.
+- 💻 Exploring Software Development, Full-Stack Web Development, and Database Management.
+- 🚀 Turning ideas into functional applications through hands-on projects.
+- 🧩 Strengthening problem-solving skills through Data Structures & Algorithms.
+- 🤖 Exploring AI, Machine Learning, and intelligent application development.
+- 🤝 Always open to collaboration, knowledge sharing, and new opportunities.
+  
 <hr>
 
 ## 🛠️ Tech Stack
@@ -128,11 +129,12 @@
 
 ## 🎯 Current Focus
 
-- Strengthening Python and problem-solving fundamentals.
-- Practicing Data Structures and Algorithms.
-- Building full-stack web applications.
-- Learning how to integrate AI into practical applications.
-- Improving code quality, database design, and development workflows.
+- 🐍 Mastering Python and strengthening programming fundamentals.
+- 🧠 Practicing Data Structures, Algorithms, and logical problem-solving.
+- 🌐 Building responsive and scalable full-stack web applications.
+- 🤖 Exploring AI/ML and integrating intelligent features into real-world projects.
+- 🗄️ Improving database design, backend development, and API integration.
+- ⚡ Writing clean, efficient, and maintainable code.
 
 <hr>
 
