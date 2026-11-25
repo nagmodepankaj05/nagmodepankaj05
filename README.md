@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Graduate | Software Developer.
+- 🎓 Pursuing MCA | BCA Graduate | Software Developer.
 - 💡 Passionate about building practical solutions through code and technology.
 - 💻 Exploring Software Development, Full-Stack Web Development, and Database Management.
 - 🚀 Turning ideas into functional applications through hands-on projects.
